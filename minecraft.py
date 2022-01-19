@@ -91,3 +91,6 @@ hand = Hand()
 
 
 oyna.run()
+
+
+# Copyright https://www.youtube.com/c/HABIBULLAYEVAZIZBEK
